@@ -1,0 +1,13 @@
+*.nii
+train_images/
+train_masks/
+valid_images/
+valid_masks/
+test_images/
+test_masks/
+train_images_2/
+train_masks_2/
+valid_images_2/
+valid_masks_2/
+test_images_2/
+test_masks_2/
